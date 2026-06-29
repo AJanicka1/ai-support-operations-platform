@@ -34,3 +34,20 @@ Google AppSheet / Google Forms
 ## Current Status
 
 Week 1: Project setup in progress.
+
+## Project Structure
+
+```text
+ai-support-operations-platform/
+│
+├── architecture/     # architecture diagrams
+├── data/             # sample and processed datasets
+├── dashboard/        # reporting artifacts
+├── docs/             # project documentation
+├── n8n/              # workflow exports
+├── prompts/          # LLM prompts
+├── scripts/          # Python scripts
+├── screenshots/      # project screenshots
+├── sql/              # SQL queries and views
+└── README.md
+```
