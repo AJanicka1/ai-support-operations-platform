@@ -1,0 +1,8 @@
+2025-06-30 09:14:02 ERROR NotificationService
+SMTP connection timeout.
+
+2025-06-30 09:14:05 WARNING Retry attempt 1 failed.
+
+2025-06-30 09:14:15 ERROR Workflow execution stopped.
+Flow ID: WF-2045
+Environment: Production

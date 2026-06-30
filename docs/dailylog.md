@@ -31,3 +31,25 @@
 - Connect Google Form to Google Sheets.
 - Define initial ticket schema.
 - Add sample ticket data.
+
+# Day 2
+
+## Completed
+
+- Created Google Form.
+- Connected Google Form to Google Sheets.
+- Designed ticket schema.
+- Created reference tables.
+- Added sample ticket data.
+
+## Learned
+
+- Google Forms basics.
+- Google Sheets integration.
+- Basic data modelling.
+
+## Next Steps
+
+- Export data.
+- Prepare Python environment.
+- Build first ETL script.
