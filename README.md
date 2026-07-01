@@ -37,8 +37,6 @@ Week 1: Project setup in progress.
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 ai-support-operations-platform/
 │
