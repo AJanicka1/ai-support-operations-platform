@@ -37,17 +37,22 @@ Week 1: Project setup in progress.
 
 ## Project Structure
 
-```text
 ai-support-operations-platform/
 │
-├── architecture/     # architecture diagrams
-├── data/             # sample and processed datasets
-├── dashboard/        # reporting artifacts
-├── docs/             # project documentation
-├── n8n/              # workflow exports
-├── prompts/          # LLM prompts
-├── scripts/          # Python scripts
-├── screenshots/      # project screenshots
-├── sql/              # SQL queries and views
-└── README.md
-```
+├── architecture/          # architecture diagrams
+├── dashboard/             # reporting artifacts
+├── data/
+│   ├── raw/               # raw exported datasets
+│   ├── processed/         # cleaned datasets
+│   └── sample_attachments/# sample ticket attachments
+│
+├── docs/                  # project documentation
+├── n8n/                   # workflow exports
+├── prompts/               # LLM prompts
+├── scripts/               # Python scripts
+├── screenshots/           # project screenshots
+├── sql/                   # SQL queries and views
+│
+├── requirements.txt       # Python dependencies
+├── README.md
+└── .gitignore
